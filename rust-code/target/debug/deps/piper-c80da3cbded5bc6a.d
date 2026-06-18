@@ -1,0 +1,5 @@
+/home/ahmed/Projekte/android-linux-integration/PenguinSync/target/debug/deps/piper-c80da3cbded5bc6a.d: /home/ahmed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/piper-0.2.5/src/lib.rs
+
+/home/ahmed/Projekte/android-linux-integration/PenguinSync/target/debug/deps/libpiper-c80da3cbded5bc6a.rmeta: /home/ahmed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/piper-0.2.5/src/lib.rs
+
+/home/ahmed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/piper-0.2.5/src/lib.rs:

@@ -1,0 +1,7 @@
+{
+  "uuid": "clipsync@ch7amada.com",
+  "name": "ClipSync Clipboard Helper",
+  "description": "Relays clipboard copy events directly to the ClipSync Rust Daemon via D-Bus.",
+  "shell-version": ["50"],
+  "url": ""
+}
